@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-02-hello" />
         <module name="springmvc-01-serlvet" />
+        <module name="springmvc-03-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
