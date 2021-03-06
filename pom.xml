@@ -13,9 +13,8 @@
         <module>spring-02-hello</module>
         <module>spring-02-hello</module>
         <module>springmvc-03-annotation</module>
-        <module>springmvc=04-controller</module>
-        <module>springmvc-04-controller</module>
         <module>springmvc-04controller</module>
+        <module>springnvc-05-json</module>
     </modules>
 
     <properties>
@@ -49,6 +48,11 @@
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
             <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
         </dependency>
     </dependencies>
     <build>

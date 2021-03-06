@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springnvc-05-json" />
         <module name="spring-02-hello" />
         <module name="springmvc-04controller" />
         <module name="springmvc-01-serlvet" />
